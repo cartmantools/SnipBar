@@ -35,12 +35,12 @@ You choose which buttons are shown in the settings.
 
 ### Option 1: with AutoHotkey (recommended)
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)
-2. Download `SnipBar.ahk` from the [latest release](../../releases/latest)
+2. Download `SnipBar.ahk`
 3. Double-click it. A tray icon appears.
 4. Select some text anywhere and the bar shows up
 
 ### Option 2: standalone `.exe`
-Download `SnipBar.exe` from the [releases page](../../releases/latest). No AutoHotkey needed.
+Download `SnipBar.exe`. No AutoHotkey needed.
 > Windows SmartScreen or your antivirus may warn about unsigned AutoHotkey executables. The full source code is in this repository so you can check it or compile it yourself.
 
 ### Start with Windows
