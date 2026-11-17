@@ -1,5 +1,5 @@
 # SnipBar
-A small, free floating action bar for Windows: select some text with your mouse and a bar of one-click actions appears right above it. Built with AutoHotkey v2. Inspired by tools like SnipDo, but free and lightweight.
+A small, free floating action bar for Windows: maybe alternative to pantherbar or SnipDo select some text with your mouse and a bar of one-click actions appears right above it. Built with AutoHotkey v2. Inspired by tools like SnipDo, but free and lightweight.
 
 ![snipbar Preview](Preview.png)
 ![snipbar Preview](Settings_snipbar.png)
