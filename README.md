@@ -1,4 +1,5 @@
-Sorry first of all if it detects like a virus in the .exe I don't know how to solve that, its a vibe coded app so am not good in coding, if does not work try to launch it with the ahk script by installing autohotkey :)
+Sorry first of all if it detects like a virus in the .exe I don't know how to solve that, its a vibe coded app so am not good in coding, if does not work try to launch it with the snipbar.ahk script by installing autohotkey 2 :) everything is in the folder just choose the last version
+
 New version 0.9.4 allow you to change the design of the bar in the settings and also add or remove symbols of your choice.
 
 # SnipBar
