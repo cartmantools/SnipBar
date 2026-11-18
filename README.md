@@ -1,5 +1,5 @@
 Sorry first of all if it detects like a virus in the .exe I don't know how to solve that, its a vibe coded app so am not good in coding, if does not work try to launch it with the ahk script by installing autohotkey :)
-New version 0.9.3 allow you to change the design of the bar in the settings and also add or remove symbols of your choice.
+New version 0.9.4 allow you to change the design of the bar in the settings and also add or remove symbols of your choice.
 
 # SnipBar
 A small, free floating action bar for Windows: maybe alternative to pantherbar or SnipDo select some text with your mouse and a bar of one-click actions appears right above it. Built with AutoHotkey v2. Inspired by tools like SnipDo, but free and lightweight.
